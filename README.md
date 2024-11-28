@@ -25,6 +25,7 @@ Capture Image from Camera:
 -Choose option 2 to start the camera feed.
 -Hover your mouse over the live video to see the RGB values of the pixel you're pointing at.
 
+
 4. Example Menu:
 Once the program runs, you'll see a menu like this:
 === Color Detection Menu ===
