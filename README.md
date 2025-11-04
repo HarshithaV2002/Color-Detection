@@ -7,7 +7,7 @@ Features
 
 
 Follow these steps to run the program:
-1)1. Install Dependencies:
+1. Install Dependencies:
 You need Python and the required libraries to run the program. Use the following steps to set up the environment.
 ```commandline
 pip install opencv-python pandas
@@ -29,17 +29,15 @@ Load Image from File:
 4. Example Menu:
 Once the program runs, you'll see a menu like this:
 === Color Detection Menu ===
-1. Load image from file
-2. Capture image from camera
-3. Exit
-Enter your choice: 
+- **Load image from file**
+- **Capture image from camera**
+- **Exit**
+- **Enter your choice:** 
 
-5)Exit the Program:
+5. Exit the Program:
+- **To exit, simply choose option 3, and the program will terminate.**
 
-To exit, simply choose option 3, and the program will terminate.
-
-
-Contributing:
+## Contributing:
 Contributions are welcome! If you have any suggestions, bug reports, or feature requests, please open an issue or submit a pull request.
 
 
