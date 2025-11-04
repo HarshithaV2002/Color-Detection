@@ -13,7 +13,7 @@ You need Python and the required libraries to run the program. Use the following
 pip install opencv-python pandas
 ```
 
-2)2. Configure the Color CSV File:
+2. Configure the Color CSV File:
 The program relies on a CSV file to match RGB values to their respective color names. Ensure that the CSV file colors.csv is in the same directory as the script or provide the correct path in the script.
 
 3. Run the Program:
